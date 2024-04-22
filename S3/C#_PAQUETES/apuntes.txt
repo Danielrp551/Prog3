@@ -1,0 +1,14 @@
+org.pucp.interfaces
+	-IConsultable.cs
+	
+interfaces.dll	
+	
+org.pucp.personal
+	-Persona.cs
+	
+personal.dll	
+	
+org.pucp.investigadores
+	-Investigador.cs
+org.pucp.principales
+	-Principales.cs

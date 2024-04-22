@@ -1,0 +1,3 @@
+enum TipoDedicacionExterno{
+	TC, TP
+}
