@@ -135,4 +135,29 @@ END$
 CREATE PROCEDURE LISTAR_AREAS_TODAS()
 BEGIN
 	SELECT id_area, nombre FROM area WHERE activo = 1;
-END
+END$
+
+/*Prueba Practica*/
+DROP TABLE IF EXISTS prestamo;
+DROP PROCEDURE INSERTAR_PRESTAMO;
+
+CREATE TABLE prestamo (
+    id_prestamo INT AUTO_INCREMENT PRIMARY KEY,
+    fechaInicio DATE NOT NULL,
+    fechaFin DATE NOT NULL,
+    fechaDeEntrega DATE,
+    estado ENUM('Entregado', 'Activo', 'Completado', 'Perdida', 'Inactivo') NOT NULL
+);
+
+select * from prestamo;
+
+Delimiter $
+CREATE PROCEDURE INSERTAR_PRESTAMO(
+	OUT _id_prestamo INT,
+    IN _fechaInicio DATE,
+    IN _fechaFin DATE,
+    IN _estado ENUM('Entregado', 'Activo', 'Completado', 'Perdida', 'Inactivo')
+)BEGIN
+	INSERT INTO prestamo(fechaInicio,fechaFin,fechaDeEntrega,estado) VALUES(_fechaInicio,_fechaFin,null,_estado);
+    SET _id_prestamo = @@last_insert_id;
+END$

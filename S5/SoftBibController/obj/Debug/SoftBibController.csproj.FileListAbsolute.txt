@@ -1,0 +1,16 @@
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftBibController\bin\Debug\SoftBibController.dll
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftBibController\bin\Debug\SoftBibController.pdb
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftBibController\bin\Debug\MySql.Data.dll
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftBibController\bin\Debug\SoftBibDBManager.dll
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftBibController\bin\Debug\SoftBibModel.dll
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftBibController\bin\Debug\System.Memory.dll
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftBibController\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftBibController\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftBibController\bin\Debug\System.Buffers.dll
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftBibController\bin\Debug\SoftBibDBManager.pdb
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftBibController\bin\Debug\SoftBibModel.pdb
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftBibController\obj\Debug\SoftBibController.csproj.AssemblyReference.cache
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftBibController\obj\Debug\SoftBibController.csproj.CoreCompileInputs.cache
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftBibController\obj\Debug\SoftBibC.0399CE0E.Up2Date
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftBibController\obj\Debug\SoftBibController.dll
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftBibController\obj\Debug\SoftBibController.pdb

@@ -1,0 +1,6 @@
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftBibModel\bin\Debug\SoftBibModel.dll
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftBibModel\bin\Debug\SoftBibModel.pdb
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftBibModel\obj\Debug\SoftBibModel.csproj.AssemblyReference.cache
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftBibModel\obj\Debug\SoftBibModel.csproj.CoreCompileInputs.cache
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftBibModel\obj\Debug\SoftBibModel.dll
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftBibModel\obj\Debug\SoftBibModel.pdb
