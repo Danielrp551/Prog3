@@ -1,0 +1,6 @@
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftProgRRHHModel\SoftProgRRHHModel\bin\Debug\SoftProgRRHHModel.dll
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftProgRRHHModel\SoftProgRRHHModel\bin\Debug\SoftProgRRHHModel.pdb
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftProgRRHHModel\SoftProgRRHHModel\obj\Debug\SoftProgRRHHModel.csproj.AssemblyReference.cache
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftProgRRHHModel\SoftProgRRHHModel\obj\Debug\SoftProgRRHHModel.csproj.CoreCompileInputs.cache
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftProgRRHHModel\SoftProgRRHHModel\obj\Debug\SoftProgRRHHModel.dll
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftProgRRHHModel\SoftProgRRHHModel\obj\Debug\SoftProgRRHHModel.pdb

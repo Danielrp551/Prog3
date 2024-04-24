@@ -1,0 +1,16 @@
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftProgRRHHModel\SoftProgRRHHController\bin\Debug\SoftProgRRHHController.dll
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftProgRRHHModel\SoftProgRRHHController\bin\Debug\SoftProgRRHHController.pdb
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftProgRRHHModel\SoftProgRRHHController\bin\Debug\MySql.Data.dll
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftProgRRHHModel\SoftProgRRHHController\bin\Debug\SoftProgDBManager.dll
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftProgRRHHModel\SoftProgRRHHController\bin\Debug\SoftProgRRHHModel.dll
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftProgRRHHModel\SoftProgRRHHController\bin\Debug\System.Memory.dll
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftProgRRHHModel\SoftProgRRHHController\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftProgRRHHModel\SoftProgRRHHController\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftProgRRHHModel\SoftProgRRHHController\bin\Debug\System.Buffers.dll
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftProgRRHHModel\SoftProgRRHHController\bin\Debug\SoftProgDBManager.pdb
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftProgRRHHModel\SoftProgRRHHController\bin\Debug\SoftProgRRHHModel.pdb
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftProgRRHHModel\SoftProgRRHHController\obj\Debug\SoftProgRRHHController.csproj.AssemblyReference.cache
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftProgRRHHModel\SoftProgRRHHController\obj\Debug\SoftProgRRHHController.csproj.CoreCompileInputs.cache
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftProgRRHHModel\SoftProgRRHHController\obj\Debug\SoftProg.3F73E798.Up2Date
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftProgRRHHModel\SoftProgRRHHController\obj\Debug\SoftProgRRHHController.dll
+C:\Users\Danielrp551\OneDrive\Universidad\2024-1\Prog3\S5\SoftProgRRHHModel\SoftProgRRHHController\obj\Debug\SoftProgRRHHController.pdb
